@@ -1,0 +1,14 @@
+[
+  {
+    "package": "colordistance",
+    "oncran": true
+  },
+  {
+    "package": "countcolors",
+    "oncran": true
+  },
+  {
+    "package": "recolorize",
+    "oncran": true
+  }
+]

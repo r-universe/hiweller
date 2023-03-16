@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "colordistance"]
+	path = colordistance
+	url = https://github.com/hiweller/colordistance
+	shallow = true
+	registered = true
+[submodule "countcolors"]
+	path = countcolors
+	url = https://github.com/hiweller/countcolors
+	shallow = true
+	registered = true
+[submodule "recolorize"]
+	path = recolorize
+	url = https://github.com/hiweller/recolorize
+	shallow = true
+	registered = true
